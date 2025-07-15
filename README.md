@@ -1,4 +1,4 @@
-# Portafolio Personal - Guillermo Carrión Caballero
+# Portfolio Personal - Guillermo Carrión Caballero
 
 Este es mi sitio web personal, desarrollado con HTML5, CSS3 y JavaScript puro. En él muestro mi formación, experiencia, proyectos y formas de contacto.  
 
